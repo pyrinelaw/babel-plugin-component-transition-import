@@ -1,0 +1,24 @@
+{
+    "name": "babel-plugin-component-transition-import",
+    "description": "按需加载组件库样式 loader",
+    "keywords": [
+      "style-import",
+      "components-import",
+      "component-transition-import",
+      "babel-plugin-style-import",
+      "babel-plugin-component-transition-import"
+    ],
+    "version": "0.0.2",
+    "main": "index.js",
+    "repository": {
+      "url": "https://github.com/pyrinelaw/babel-plugin-component-transition-import",
+      "type": "git"
+    },
+    "author": "pyrine.law<pyrine.law@gmail.com>",
+    "dependencies": {
+        "babel-types": "^6.26.0",
+        "lodash": "^4.17.4"
+    },
+    "license": "MIT"
+  }
+  
